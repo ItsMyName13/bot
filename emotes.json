@@ -1,0 +1,49 @@
+{
+
+    "general": { 
+        "yes": "✅",
+        "no": "❌",
+        "warning": "⚠️",
+        "warning2": "🚧",
+        "on": "🟢",
+        "off": "🔴",
+        "doc": "📄",
+        "parametres": "⚙️",
+        "members": "👥",
+        "moderation": "🔧",
+        "administration": "⚙️",
+        "server": "💾",
+        "github": "<:github:845325036931645460>",
+        "developper": "👨‍💻",
+        "folder": "📂",
+        "home": "🏠",
+        "channel": "",
+        "lockedchannel": "🔒",
+        "description": "📃"
+    },
+         "voice": { 
+         "unmuted": "🎙️",
+         "muted": "🔇",
+         "undeafened": "<:774991171734077450:891455510031765516>",
+         "deafened": "<:774991171734077450:891455510031765516>",
+          "voice": "🎙️"
+    },
+        "state": { 
+        "online": "🔛",
+        "dnd": "<:IconStatusDND:897532022938021930>",
+        "idle": "<:IconStatusIdle:897532002960543824>",
+        "offline": "📴"
+},
+    "fun": { 
+    "gun": "🔫",
+    "coin": "🪙",
+    "boost": "",
+    "bot": "🤖",
+    "crache": "😑"
+ }
+}
+
+
+
+
+
